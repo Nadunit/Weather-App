@@ -1,0 +1,49 @@
+h1{
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
+#r-link{
+  font-family: cursive;
+  font-size: 20px;
+  background-color: #f44336;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#s-link{
+  font-family: cursive;
+  font-size: 20px;
+  background-color: yellow;
+  color: black;
+  padding: 14px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+#l-link{
+  font-family: cursive;
+  font-size: 20px;
+  background-color: green;
+  color: black;
+  padding: 20px 100px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+}
+.sub{
+  padding: 15px 25px;
+  font-size: 24px;
+  text-align: center;
+  cursor: pointer;
+  outline:inherit;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 15px;
+  box-shadow: 0 9px #999;
+}
